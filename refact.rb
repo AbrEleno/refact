@@ -1,3 +1,4 @@
+# Comentario de prueba
 def dummy_encrypt(string)
     string.reverse.swapcase.gsub(/[aeio]/,"*")
 end
